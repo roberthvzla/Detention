@@ -1,4 +1,5 @@
 # Traducción al español de Detention
+![Logo](assets/Detention.png)
 # Instalación
 1. Descarga los archivos «en.xls» y «UITutorial_drag_item_es.png»
 2. En la ruta del juego en steam (o donde tengas el juego) que debería ser: C:\Program Files (x86)\Steam\steamapps\common\Detention\Detention_Data\8_Translations, ahí pega ambos archivos reemplazando si así lo pide.
