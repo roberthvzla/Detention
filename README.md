@@ -1,4 +1,4 @@
-# Traducción al español de Detention
+# Detention: Traducción al Español
 ![Logo](assets/Detention.png)
 
 # 📥 Descargar
