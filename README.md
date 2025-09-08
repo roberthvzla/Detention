@@ -2,7 +2,7 @@
 ![Logo](assets/Detention.png)
 
 # 📥 Descargar
-[en.xls](https://github.com/roberthvzla/Detention/raw/main/Detention-Español.7z)
+[Detention-Español](https://github.com/roberthvzla/Detention/raw/main/Detention-Español.7z)
 
 # Instalación
 1. Descarga el archivo «Detention Español.7z».
