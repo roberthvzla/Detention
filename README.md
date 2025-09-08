@@ -1,7 +1,7 @@
 # Detention: Traducción al Español
 ![Logo](assets/Detention.png)
 
-# 📥 Descarga
+# 📥 Enlace de Descarga
 [Detention-Español](https://github.com/roberthvzla/Detention/raw/main/Detention-Español.7z)
 
 # Instalación
