@@ -10,4 +10,4 @@
 3. Listo, ahora abre el juego y a disfrutar.
 
 # Créditos
-Tropicana Traducciones que fue la base para hacerla, y a [Traducciones Roberth](https://www.facebook.com/TraduccionesRoberth) quien corrigió todo el texto, mejoró algunos diálogos y tradujo partes faltantes por traducir.
+[Traducciones Roberth](https://www.facebook.com/TraduccionesRoberth) quien corrigió todo el texto, mejoró diálogos y tradujo partes faltantes e imágenes por traducir y Tropicana Traducciones que fue la base para hacerla.
